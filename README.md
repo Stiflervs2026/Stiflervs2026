@@ -1,21 +1,13 @@
-Hi there, I'm Vikram 👋
-About Me
-I am Vikram, an enthusiastic QA Automation Engineer with a passion for ensuring software quality through automation. With 2 years of experience in manual QA, I've developed a solid understanding of Software Testing Life Cycle (STLC), Software Development Life Cycle (SDLC), and various manual testing methodologies. My goal is to leverage my expertise in QA automation to contribute to innovative projects and drive excellence in software quality.
+👋 Hi there! I'm Vikram, a passionate QA Automation Engineer on a mission to ensure software quality through automation. With 2 years of hands-on experience in manual QA, I bring a deep understanding of Software Testing Life Cycle (STLC), Software Development Life Cycle (SDLC), and various testing methodologies to the table.
 
-Technologies and Tools
+💻 Currently, I'm diving deep into the world of automation, mastering tools like Selenium with Python, Java, and Cypress. My goal is to collaborate on exciting projects in the automation QA industry, leveraging my skills to drive innovation and excellence in software quality.
+
+🔧 Here's what's in my toolbox:
+
 Languages: Python, Java
 Automation Tools: Selenium, Cypress
 Version Control: Git
 Testing Methodologies: STLC, SDLC
-Other: GitHub
-Current Focus
-I am currently honing my skills in Selenium with Python, Java, and Cypress to strengthen my automation capabilities. I'm eager to collaborate on projects in the automation QA industry to apply my knowledge and contribute to building robust software solutions.
+🌟 Outside of tech, I'm a cricket enthusiast and a passionate traveler. Exploring new destinations fuels my creativity and allows me to unwind from the fast-paced tech world.
 
-Get in Touch
-GitHub: Stiflervs2026
-Email: vikramsoni751@gmail.com
-Hobbies
-Outside of work, I enjoy playing cricket and exploring new destinations. Traveling allows me to broaden my perspective and unwind from the daily hustle.
-
-Feel free to reach out if you're interested in collaborating on automation QA projects or just want to chat about cricket and travel adventures!
-
+📫 Feel free to reach out to me on GitHub @Stiflervs2026 or drop me an email at vikramsoni751@gmail.com. Let's connect and collaborate on exciting automation QA projects or share stories about cricket and travel adventures!
